@@ -7,7 +7,7 @@ Simple library to _approximate 1-dimensional calculus operations_ in real time. 
 For the sake of simplicity and to reduce memory use, the library uses micros() to update the timestep. This step is shared by all instances of alpha-beta filter.
 
 # References:
-- [alpha-beta filter](https://en.wikipedia.org/wiki/Alpha_beta_filter)
+- [Alpha-beta filter](https://en.wikipedia.org/wiki/Alpha_beta_filter)
 - [Derivatives and Integrals](http://hyperphysics.phy-astr.gsu.edu/hbase/Math/derint.html)
 - [Trapezoidal rule](https://en.wikipedia.org/wiki/Trapezoidal_rule)
 
