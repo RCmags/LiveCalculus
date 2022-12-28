@@ -4,3 +4,4 @@ Simple library to _approximate 1-dimensional calculus operations_ in real time. 
 # Other
 For the sake of simplicity and to reduce memory use, the library uses micros() to update the timestep. This step is shared by all instances of alpha-beta filter.
 
+![image](http://hyperphysics.phy-astr.gsu.edu/hbase/Math/immath/derint.png)
